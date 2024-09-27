@@ -1,0 +1,51 @@
+{
+    "workbench.colorTheme":"Min Dark",
+    "workbench.iconTheme": "symbols",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "workbench.activityBar.location": "bottom", //ctrl + Q
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": false,
+
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true, 
+    "editor.semanticHighlighting.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+
+    "window.zoomLevel": -0.2,
+    "window.commandCenter": false,
+
+    "explorer.compactFolders": true,
+    "explorer.fileNesting.enabled": true,
+
+    "symbols.hidesExplorerArrows": false,
+    "files.autoSave": "afterDelay",
+
+   "apc.font.family": "inter",
+    "apc.listRow": {
+        "height": 24
+    },
+    "apc.stylesheet": {
+        // ".pane-body":"padding: 8px",
+        ".title-label > h2" : "disable:none",
+        ".window-appicon":"display:none",
+        ".window-title":"display:none"
+    },
+
+    "terminal.integrated.fontSize": 17,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.lineHeight": 1.3,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false
+
+}
+
